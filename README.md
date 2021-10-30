@@ -1,2 +1,3 @@
-# kubernetes-cli-tutorial
-Learn more about kubernetes cli commands....
+# ឯកសារ Kubernetes CLI ជាភាសាខ្មែរ
+
+![kubernetes thumbnail](/_thumbnail_doc/kubernetes.jpg "Kubernetes Tutorial")
