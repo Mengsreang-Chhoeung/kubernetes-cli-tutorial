@@ -104,3 +104,21 @@ Minikube Dashboard នៅលើ Browser:
 ពាក្យបញ្ជាខាងក្រោមនេះគឺប្រើសម្រាប់ run services:
 
 ![minikube run services thumbnail](/_thumbnail_doc/minikube_service.jpeg "Minikube Run Service")
+
+#
+
+ពាក្យបញ្ជាខាងក្រោមនេះគឺប្រើសម្រាប់ delete service:
+
+![minikube delete service thumbnail](/_thumbnail_doc/minikube_delete_service.jpeg "Minikube Delete Service")
+
+ពាក្យបញ្ជាខាងក្រោមនេះគឺប្រើសម្រាប់ delete deployment:
+
+![minikube delete deployment thumbnail](/_thumbnail_doc/minikube_delete_deployment.jpeg "Minikube Delete Deployment")
+
+ពាក្យបញ្ជាខាងក្រោមនេះគឺប្រើសម្រាប់ stop minikube:
+
+![minikube stop thumbnail](/_thumbnail_doc/minikube_stop.jpeg "Minikube Stop")
+
+ពាក្យបញ្ជាខាងក្រោមនេះគឺប្រើសម្រាប់ delete minikube:
+
+![minikube delete thumbnail](/_thumbnail_doc/minikube_delete.jpeg "Minikube Delete")
