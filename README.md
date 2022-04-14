@@ -90,3 +90,17 @@ Minikube Dashboard នៅលើ Browser:
 ពាក្យបញ្ជាខាងក្រោមនេះគឺប្រើសម្រាប់ view config:
 
 ![minikube view config thumbnail](/_thumbnail_doc/minikube_config_view.jpeg "Minikube View Config")
+
+#
+
+ពាក្យបញ្ជាខាងក្រោមនេះគឺប្រើសម្រាប់ create service:
+
+![minikube create service thumbnail](/_thumbnail_doc/minikube_create_service.jpeg "Minikube Create Service")
+
+ពាក្យបញ្ជាខាងក្រោមនេះគឺប្រើសម្រាប់ get services:
+
+![minikube get services thumbnail](/_thumbnail_doc/minikube_get_services.jpeg "Minikube Get Services")
+
+ពាក្យបញ្ជាខាងក្រោមនេះគឺប្រើសម្រាប់ run services:
+
+![minikube run services thumbnail](/_thumbnail_doc/minikube_service.jpeg "Minikube Run Service")
