@@ -41,3 +41,33 @@
 ខាងក្រោមនេះគឺជាការ verify ថានៅក្នុងកុំព្យូទ័ររបស់យើងបានទាញយកនូវ **minikube** ហើយឬនៅ ហើយដើម្បី verify បានគឺចូល command line មួយណាក៏បាន តែក្នុងនេះគឺយើងប្រើ cmd របស់ Window ។ បន្ទាប់ពីបានបើក cmd រួចរាល់គឺសរសេរ command ដូចខាងក្រោមដែលមានប្រអប់ក្រហមព័ទ្ធជុំវិញ ហើយបើលទ្ធផលចេញមាន version នឹង commit ដូចក្នុងរូបគឺមានន័យកុំព្យូទ័ររបស់យើងគឺបានទាញយកនូវ **minikube** បានរួចរាល់។
 
 ![minikube version thumbnail](/_thumbnail_doc/minikube_version.jpeg "Minikube Version")
+
+
+#
+
+ដើម្បីអាច start cluster បានយើងត្រូវប្រើ command ដូចខាងក្រោម:
+
+![minikube start thumbnail](/_thumbnail_doc/minikube_start.jpeg "Minikube Start")
+
+បើយើងក្រឡេកមកមើលក្នុង Docker Desktop វិញគឺយើងនឹងឃើញមាន image មួយនឹង container មួយដែល run ចេញពី image នោះដូចគ្នា:
+
+> Image: gcr.io/k8s-minikube/kicbase
+
+![minikube image thumbnail](/_thumbnail_doc/minikube_image.jpeg "Minikube Image")
+
+> Container: minikube
+
+![minikube container thumbnail](/_thumbnail_doc/minikube_container.jpeg "Minikube Container")
+
+ពាក្យបញ្ជាខាងក្រោមនេះគឺប្រើដើម្បីចង់មើលទិន្នន័យនៅក្នុង cluster ដោយមាន interface ស្អាតត្រឹមត្រូវនៅលើ browser:
+
+![minikube dashboard thumbnail](/_thumbnail_doc/minikube_dashboard.jpeg "Minikube Dashboard")
+
+Minikube Dashboard នៅលើ Browser:
+
+![minikube dashboard browser thumbnail](/_thumbnail_doc/minikube_dashboard_browser.jpeg "Minikube Dashboard Browser")
+
+ពាក្យបញ្ជាខាងក្រោមនេះគឺប្រើដើម្បីចង់មើលទិន្នន័យនៅក្នុង cluster ដោយមាន interface ស្អាតត្រឹមត្រូវនៅលើ browser ដូចពាក្យបញ្ជាខាងលើដែរ តែវាមិន redirect ទៅបើក browser ដោយផ្ទាល់ខ្លួនវានោះទេ គឺទាមទារឲ្យយើងទៅបើកដោយខ្លួនឯង:
+
+![minikube dashboard url thumbnail](/_thumbnail_doc/minikube_dashboard_url.jpeg "Minikube Dashboard Url")
+
