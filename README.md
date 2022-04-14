@@ -6,6 +6,10 @@
 
 - **Kubernetes** ជា container orchestration engine ដែលមានលក្ខណះជា open source ហើយវាប្រើសម្រាប់ automating deployment, scaling, នឹង management នៃ containerized applications ។ វាត្រូវបានអភិវឌ្ឍន៍ដោយ **Google** ។
 
+## តើមានតម្រូវការអ្វីខ្លះទើបអាចសិក្សា Kubernetes បាន?
+
+- ដើម្បីអាចសិក្សា **Kubernetes** បានគឺយើងត្រូវមានចំណេះដឹងទាក់ទងនឹង Docker, Linux, YAML, នឹង Command Lines ជាមុនសិន។ ចំណាំ: អ្នកមិនចាំបាច់ចេះពួកវា(Docker, Linux, YAML, នឹង Command Lines) ច្បាស់អីណាស់ណានោះទេ គ្រាន់តែយល់ថាវាយកមកធ្វើអ្វីខ្លះទៅបានហើយ។
+
 ## តើធ្វើយ៉ាងមិចបានអាចប្រើប្រាស់ Kubernetes បាន?
 
 ដើម្បីអាចប្រើប្រាស់ Kubernetes បាន យើងត្រូវទាញយក Tools សិនគឺ **kubectl**។
