@@ -4,7 +4,7 @@
 
 ## តើ Kubernetes ជាអ្វី?
 
-- **Kubernetes** ជា container orchestration engine ដែលមានលក្ខណះជា open source ហើយវាប្រើសម្រាប់ automating deployment, scaling, នឹង management នៃ containerized applications ។ វាត្រូវអភិវឌ្ឍន៍ដោយ **Google** ។
+- **Kubernetes** ជា container orchestration engine ដែលមានលក្ខណះជា open source ហើយវាប្រើសម្រាប់ automating deployment, scaling, នឹង management នៃ containerized applications ។ វាត្រូវបានអភិវឌ្ឍន៍ដោយ **Google** ។
 
 ## តើធ្វើយ៉ាងមិចបានអាចប្រើប្រាស់ Kubernetes បាន?
 
