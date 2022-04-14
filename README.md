@@ -71,3 +71,22 @@ Minikube Dashboard នៅលើ Browser:
 
 ![minikube dashboard url thumbnail](/_thumbnail_doc/minikube_dashboard_url.jpeg "Minikube Dashboard Url")
 
+ពាក្យបញ្ជាខាងក្រោមនេះគឺប្រើសម្រាប់ create deployment:
+
+![minikube create deployment thumbnail](/_thumbnail_doc/minikube_create_deployment.jpeg "Minikube Create Deployment")
+
+ពាក្យបញ្ជាខាងក្រោមនេះគឺប្រើសម្រាប់ get deployments:
+
+![minikube get deployments thumbnail](/_thumbnail_doc/minikube_get_deployments.jpeg "Minikube Get Deployments")
+
+ពាក្យបញ្ជាខាងក្រោមនេះគឺប្រើសម្រាប់ get pods:
+
+![minikube get pods thumbnail](/_thumbnail_doc/minikube_get_pods.jpeg "Minikube Get Pods")
+
+ពាក្យបញ្ជាខាងក្រោមនេះគឺប្រើសម្រាប់ view events:
+
+![minikube get events thumbnail](/_thumbnail_doc/minikube_get_events.jpeg "Minikube Get Events")
+
+ពាក្យបញ្ជាខាងក្រោមនេះគឺប្រើសម្រាប់ view config:
+
+![minikube view config thumbnail](/_thumbnail_doc/minikube_config_view.jpeg "Minikube View Config")
